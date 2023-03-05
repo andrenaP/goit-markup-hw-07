@@ -1245,3 +1245,8 @@ border: 1px solid var(--CORNFLOWER);
     border-color: var(--active-color);
 
 }
+
+.form-send-btn:hover,
+.form-send-btn:focus {
+  background-color: #404bbf;
+}
