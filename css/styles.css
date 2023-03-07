@@ -614,25 +614,10 @@ color: #2E2F42;
   align-items: center;
   gap: 56px;
 }
-
-.menu-social-link{
-  display: flex;
-  width: 100%;
-  height: 100%;
-  background-color: var(--Iris);
-  border-radius: 50%;
-  justify-content: center;
-  align-items: center;
-  transition: background-color 250ms var(--Timing-funk);
-}
 .menu-item{
   width: 40px;
   height: 40px;
 }
-.menu-icon{
-  fill: var(--CLOUD);
-}
-
 
 /* portfolio */
 .portfolio{
